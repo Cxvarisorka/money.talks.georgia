@@ -22,7 +22,7 @@ export default function Testimonials() {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           transition={{ duration: 0.8 }}
-          className="text-center mb-16"
+          className="text-left mb-16"
         >
           <span className="text-gold-500 uppercase tracking-[0.3em] text-sm font-medium">
             {t('testimonials.subtitle')}

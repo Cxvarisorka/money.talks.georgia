@@ -11,7 +11,7 @@ export default function Hero() {
   return (
     <section
       id="home"
-      className="relative min-h-screen flex items-center justify-center overflow-hidden"
+      className="relative min-h-screen flex items-center justify-center overflow-hidden pt-24 sm:pt-20"
     >
       {/* Background Effects */}
       <div className={`absolute inset-0 ${isDark ? 'bg-black' : 'bg-gray-50'}`}>
