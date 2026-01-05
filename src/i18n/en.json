@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "home": "Home",
+    "collection": "Collection",
+    "about": "About",
+    "testimonials": "Reviews",
+    "contact": "Contact"
+  },
+  "hero": {
+    "subtitle": "Money Talks, We Translate",
+    "title": "Luxury Frames",
+    "titleHighlight": "That Make a Statement",
+    "description": "Handcrafted decorative frames featuring real money, miniature luxury cars, gold accents, and iconic symbols of success. The ultimate wall art for those who dream big.",
+    "cta": "View Collection",
+    "ctaSecondary": "Follow on Instagram"
+  },
+  "featured": {
+    "subtitle": "Bestsellers",
+    "title": "Signature Pieces",
+    "description": "Each frame is a handmade masterpiece combining real currency, luxury miniatures, and premium materials. Perfect as a gift or statement piece for your space.",
+    "viewDetails": "Order Now",
+    "products": {
+      "1": {
+        "name": "The Boss Frame",
+        "description": "Real money arranged with gold accents and luxury watch imagery. A symbol of success and ambition."
+      },
+      "2": {
+        "name": "Luxury Garage",
+        "description": "Miniature supercars displayed with cash bundles and golden details. For car enthusiasts who hustle."
+      },
+      "3": {
+        "name": "Power & Prestige",
+        "description": "Decorative weapon silhouettes with money and gold elements. Bold. Iconic. Unforgettable."
+      },
+      "4": {
+        "name": "Loading Millionaire",
+        "description": "Motivational loading bar design with embedded real currency. Your daily reminder to keep grinding."
+      }
+    }
+  },
+  "about": {
+    "subtitle": "The Brand",
+    "title": "Art That Speaks",
+    "titleHighlight": "Wealth & Ambition",
+    "description": "Money Talks Georgia creates one-of-a-kind decorative frames that celebrate success, luxury, and the hustle mentality. We combine real money, miniature luxury cars, gold accents, and iconic symbols into stunning wall art. Each piece is 100% handmade and designed to inspire greatness every time you look at it.",
+    "features": {
+      "handcrafted": {
+        "title": "100% Handmade",
+        "description": "Every frame is crafted by hand with meticulous attention to detail"
+      },
+      "premium": {
+        "title": "Real Money & Gold",
+        "description": "Authentic currency, gold leaf, and premium materials in every piece"
+      },
+      "exclusive": {
+        "title": "Custom Orders",
+        "description": "Create your own unique design with personalized elements"
+      }
+    }
+  },
+  "testimonials": {
+    "subtitle": "What Clients Say",
+    "title": "Reviews From",
+    "titleHighlight": "Our Customers",
+    "reviews": {
+      "1": {
+        "text": "Ordered a custom frame with my favorite car and it looks insane! Everyone who sees it wants one. Amazing quality and craftsmanship.",
+        "name": "Giorgi M.",
+        "title": "Entrepreneur, Tbilisi"
+      },
+      "2": {
+        "text": "Got the Loading Millionaire frame as a birthday gift. The real money inside looks incredible. Best decoration in my office!",
+        "name": "Nino K.",
+        "title": "Business Owner"
+      },
+      "3": {
+        "text": "These frames are not just decor - they're motivation. Every morning I see it and remember why I work hard. Worth every lari!",
+        "name": "Luka T.",
+        "title": "Investor"
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready to Level Up Your Space?",
+    "description": "Order your custom frame today. Perfect for gifts, offices, or making your room stand out. DM us on Instagram for custom orders.",
+    "button": "Shop Now",
+    "contact": "Message on Instagram"
+  },
+  "footer": {
+    "brand": "Money Talks",
+    "tagline": "Money Talks, We Translate",
+    "rights": "All rights reserved.",
+    "links": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "shipping": "Shipping & Delivery"
+    },
+    "contact": {
+      "title": "Contact",
+      "email": "moneytalks.georgia@gmail.com",
+      "phone": "+995 555 123 456"
+    },
+    "social": {
+      "title": "Follow Us"
+    }
+  }
+}
